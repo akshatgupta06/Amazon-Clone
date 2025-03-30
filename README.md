@@ -19,5 +19,5 @@ This is a fully responsive clone of the Amazon homepage, built using **HTML** an
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/amazon-clone.git
-   cd amazon-clone
+   git clone https://github.com/akshatgupta06/Amazon-Clone
+   cd Amazon-Clone
